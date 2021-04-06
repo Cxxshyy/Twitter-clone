@@ -1,3 +1,3 @@
 # twitter-clone-vue
 
-![plot](./assets/im.png)
+![plot](./src/assets/im.png)
